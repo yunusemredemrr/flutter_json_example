@@ -1,0 +1,53 @@
+[
+  {
+    "araba_adi": "Mercedes",
+    "ulke": "Almanya",
+    "kurulus_tarihi": 1890,
+    "model": [
+      {
+        "model_Adi": "A Serisi",
+        "fiyat": 15000,
+        "benzinli": false
+      },
+      {
+        "model_Adi": "C Serisi",
+        "fiyat": 25000,
+        "benzinli": true
+      }
+    ]
+  },
+  {
+    "araba_adi": "Honda",
+    "ulke": "Japonya",
+    "kurulus_tarihi": 1820,
+    "model": [
+      {
+        "model_Adi": "Civic Serisi",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_Adi": "Jazz Serisi",
+        "fiyat": 10000,
+        "benzinli": false
+      }
+    ]
+  },
+  {
+    "araba_adi": "Renault",
+    "ulke": "Fransa",
+    "kurulus_tarihi": 1910,
+    "model": [
+      {
+        "model_Adi": "Fluance Serisi",
+        "fiyat": 12000,
+        "benzinli": true
+      },
+      {
+        "model_Adi": "Capture Serisi",
+        "fiyat": 10000,
+        "benzinli": false
+      }
+    ]
+  }
+]
